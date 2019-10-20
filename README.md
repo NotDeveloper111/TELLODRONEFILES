@@ -1,5 +1,5 @@
 # TELLODRONEFILES
-Files with python to work with Tello
+Files to get fun with Tello
 
 Write:
 
@@ -9,4 +9,4 @@ pip install easytello
 
 Well, i think this is better than py progect:
 
-https://github.com/hanyazou/TelloPy
+https://github.com/dji-sdk/Tello-Python
